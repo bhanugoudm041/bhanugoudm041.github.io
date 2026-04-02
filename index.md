@@ -2,98 +2,115 @@
 layout: default
 ---
 
-`**Site Under Construction**`
-# 👋 Hey, I'm Bhanuprakash Goud
+# 👋 Hi, I'm Bhanuprakash Goud
 
-### 🛡️ Ethical Hacker | 🧰 Tools Developer | 🎯 CTF Player
-
-> 🔥 Top 1% on TryHackMe  
-> 💻 Passionate about Cybersecurity & Exploit Development  
+### 🛡️ Ethical Hacker | 🎯 Red Teamer | 🧰 Security Tools Developer
+  
+> 🐞 Bug Bounty Hunter | 📺 YouTuber | ⚡ Cybersecurity Enthusiast  
 
 ---
 
 ## 🚀 About Me
 
-I’m **Bhanuprakash Goud**, a cybersecurity enthusiast focused on ethical hacking, tool development, and CTF challenges.
+I’m **Bhanuprakash Goud**, a passionate cybersecurity professional specializing in offensive security and real-world attack simulations.
 
-- 🛡️ Certified Ethical Hacker  
-- 🎯 Active CTF Player  
-- 🔝 Ranked in the **Top 1% on TryHackMe**  
-- ⚙️ Building custom tools for security testing  
-- 🌍 Based on Earth  
+I focus on identifying vulnerabilities, building custom tools, and solving complex security challenges across multiple domains.
 
----
-
-## 🧠 Skills & Expertise
-
-### 🔐 Cybersecurity
-- Penetration Testing
-- Vulnerability Assessment
-- Web Exploitation
-- Privilege Escalation
-
-### 💻 Development
-- Python (Automation & Tools)
-- Bash Scripting
-- JavaScript (Basics)
-
-### 🧰 Tools & Platforms
-- Nmap, Burp Suite, Metasploit  
-- Wireshark  
-- Kali Linux, Ubuntu  
-- Git & GitHub  
+- 🛡️ Certified Ethical Hacker & Red Teamer  
+- 🎯 Active CTF Player (**Top 1% on TryHackMe**)  
+- 🐞 Bug Bounty Hunter  
+- 📺 Cybersecurity Content Creator (YouTube)  
+- ⚙️ Security Tools Developer (Python & Bash)  
+- 💡 سابق Full Stack Developer (Freelancer)  
 
 ---
 
-## 🏆 Achievements
+## 🧠 Core Expertise
 
-- 🥇 Top 1% Player on TryHackMe  
-- 🛠️ Developed security tools  
-- 🎯 Participated in CTF competitions  
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Custom Recon Tool
-- Automated reconnaissance tool for bug bounty  
-- Tech: Python, APIs  
-
-### 🔹 Privilege Escalation Scripts
-- Scripts for Linux & Windows privesc  
-- Tech: Bash, Python  
-
-### 🔹 CTF Writeups
-- Collection of solved challenges and methodologies  
+### 🔐 Penetration Testing
+- Network Penetration Testing  
+- Web Application Penetration Testing  
+- API Penetration Testing  
+- Android Application Penetration Testing  
+- Active Directory Exploitation  
+- Malware Analysis  
 
 ---
 
-## 📊 GitHub Stats
-
-![Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhanugoudm041&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanugoudm041&layout=compact&theme=radical)
+### 💻 Programming & Scripting
+- 🐍 Python (Advanced – Tool Development)
+- 🖥️ Bash / Shell Scripting
+- 🧪 Currently Learning: **Golang**
 
 ---
 
-## 🌐 Connect With Me
+### 🧰 Security Tools & Platforms
+
+#### 🔍 SAST (Static Application Security Testing)
+- SonarQube  
+- Checkmarx  
+- Sec1  
+
+#### 📦 SCA (Software Composition Analysis)
+- OWASP Dependency Check  
+- Cycode  
+
+#### ☁️ CSPM
+- ScoutSuite  
+
+#### 🔄 IAST
+- Seeker  
+
+#### 📊 ASPM
+- DAZZ  
+
+---
+
+## 🛠️ Notable Projects
+
+### 🔹 Waybackurl.py
+- Tool for extracting historical URLs for reconnaissance  
+- Widely useful in bug bounty & recon workflows  
+
+### 🔹 Wifipass
+- Tool designed for WiFi-related security analysis  
+
+> ⚙️ I actively build tools to automate reconnaissance, exploitation, and security workflows.
+
+---
+
+## 🏆 Certifications
+
+- 🎓 CRTA — Certified Red Team Analyst  
+- 🎓 PNPT — Practical Network Penetration Tester  
+- 🎓 CEH — Certified Ethical Hacker  
+- 🎓 CC — Certified in Cybersecurity (ISC2)  
+- 🎓 eWPTX — Web Application Penetration Tester eXtreme  
+- 🎓 eMAPT — Mobile Application Penetration Tester  
+
+---
+
+## 🌐 Beyond Cybersecurity
+
+- ⚡ Electronics Enthusiast — building small gadgets  
+- 🚁 Knowledge in Drone Design & Fabrication  
+- 🧠 Passion for solving real-world technical problems  
+
+---
+
+## 📫 Connect With Me
 
 - 🐙 GitHub: https://github.com/bhanugoudm041  
 - 💼 LinkedIn: https://linkedin.com/in/bhanuprakash-goud-mushnaboina-316b6218b  
+- 🐦 Twitter (X): https://x.com/Bhanugoudm041  
 - 🌍 Portfolio: https://bhanugoudm041.github.io  
 
 ---
 
-## ⚡ Hacker Mindset
+## ⚡ Personal Motto
 
-> "The quieter you become, the more you are able to hear."
-
----
-
-## 👀 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=bhanugoudm041&color=blue)
+> "Break systems. Understand deeply. Build stronger."
 
 ---
 
-⭐️ *If you like my work, consider following me!*
+⭐️ *Follow me to explore cybersecurity tools, writeups, and research.*
