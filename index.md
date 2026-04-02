@@ -21,7 +21,7 @@ I focus on identifying vulnerabilities, building custom tools, and solving compl
 - 🐞 Bug Bounty Hunter  
 - 📺 Cybersecurity Content Creator (YouTube)  
 - ⚙️ Security Tools Developer (Python & Bash)  
-- 💡 سابق Full Stack Developer (Freelancer)  
+- 💡 Full Stack Developer (Freelancer)  
 
 ---
 
