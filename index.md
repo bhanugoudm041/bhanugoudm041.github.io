@@ -68,9 +68,11 @@ I focus on identifying vulnerabilities, building custom tools, and solving compl
 
 ## 🛠️ Notable Projects
 
-### 🔹 Waybackurl.py
-- Tool for extracting historical URLs for reconnaissance  
-- Widely useful in bug bounty & recon workflows  
+### 🔹 vulnscan-adb
+A powerful tool for Android application penetration testing and ADB-based automation.
+- 📱 Detects misconfigurations in `AndroidManifest.xml`  
+- ⚙️ Performs multiple ADB operations and security checks  
+- 🧪 Helps in Android pentesting workflows  
 
 ### 🔹 Wifipass
 - Tool designed for WiFi-related security analysis  
