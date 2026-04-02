@@ -90,6 +90,14 @@ I focus on identifying vulnerabilities, building custom tools, and solving compl
 
 ---
 
+## ✍️ Blogs & Content
+
+I regularly share cybersecurity knowledge, writeups, and practical insights:
+
+- 📝 Medium: https://medium.com/@bhanugoudm041  
+
+---
+
 ## 🌐 Beyond Cybersecurity
 
 - ⚡ Electronics Enthusiast — building small gadgets  
