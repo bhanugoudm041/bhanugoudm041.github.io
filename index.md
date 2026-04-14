@@ -47,22 +47,30 @@ I focus on identifying vulnerabilities, building custom tools, and solving compl
 ### 🧰 Security Tools & Platforms
 
 #### 🔍 SAST (Static Application Security Testing)
-- SonarQube  
-- Checkmarx  
-- Sec1  
+- Checkmarx
+- SonarQube   
+- Sec1
+- Semgrep CE
+
+#### 🔍 SAST (Static Application Security Testing)
+- AppScan 
 
 #### 📦 SCA (Software Composition Analysis)
-- OWASP Dependency Check  
-- Cycode  
+- Cycode
+- OWASP Dependency Check    
 
 #### ☁️ CSPM
-- ScoutSuite  
+- ScoutSuite CE 
 
 #### 🔄 IAST
 - Seeker  
 
 #### 📊 ASPM
-- DAZZ  
+- DAZZ   
+
+#### 📊 API Security
+- Akto API Security
+- Traceable API Security
 
 ---
 
