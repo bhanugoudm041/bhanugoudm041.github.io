@@ -6,7 +6,7 @@ layout: default
 
 ### 🛡️ Ethical Hacker | 🎯 Red Teamer | 🧰 Security Tools Developer
   
-> 🐞 Bug Bounty Hunter | 📺 YouTuber | ⚡ Cybersecurity Enthusiast  
+>  📺 YouTuber | 🐞 Bug Hunter | ⚡ Cybersecurity Enthusiast  
 
 ---
 
@@ -18,7 +18,7 @@ I focus on identifying vulnerabilities, building custom tools, and solving compl
 
 - 🛡️ Certified Ethical Hacker & Red Teamer  
 - 🎯 Active CTF Player (**Top 1% on TryHackMe**)  
-- 🐞 Bug Bounty Hunter  
+- 🐞 Bug Hunter  
 - 📺 Cybersecurity Content Creator (YouTube)  
 - ⚙️ Security Tools Developer (Python & Bash)  
 - 💡 Full Stack Developer (Freelancer)  
