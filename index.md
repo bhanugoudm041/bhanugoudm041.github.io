@@ -16,7 +16,7 @@ I’m **Bhanuprakash Goud**, a passionate cybersecurity professional specializin
 
 I focus on identifying vulnerabilities, building custom tools, and solving complex security challenges across multiple domains.
 
-- 🛡️ Certified Ethical Hacker & Red Teamer  
+- 🛡️ Ethical Hacker & Red Teamer  
 - 🎯 Active CTF Player (**Top 1% on TryHackMe**)  
 - 🐞 Bug Hunter  
 - 📺 Cybersecurity Content Creator (YouTube)  
@@ -92,8 +92,7 @@ A powerful tool for Android application penetration testing and ADB-based automa
 ## 🏆 Certifications
 
 - 🎓 CRTA — Certified Red Team Analyst  
-- 🎓 PNPT — Practical Network Penetration Tester  
-- 🎓 CEH — Certified Ethical Hacker  
+- 🎓 PNPT — Practical Network Penetration Tester   
 - 🎓 CC — Certified in Cybersecurity (ISC2)  
 - 🎓 eWPTX — Web Application Penetration Tester eXtreme  
 - 🎓 eMAPT — Mobile Application Penetration Tester  
