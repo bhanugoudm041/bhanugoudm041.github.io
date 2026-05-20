@@ -77,7 +77,7 @@ I focus on identifying vulnerabilities, building custom tools, and solving compl
 
 ---
 
-## ✍️ CVEs
+## 🐞 CVEs
 - **CVE-2026-33441** - https://github.com/lepture/mistune/security/advisories/GHSA-hjph-f4mc-wx4c
 
 ## 🛠️ Notable Projects
