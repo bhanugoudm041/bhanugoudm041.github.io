@@ -111,7 +111,8 @@ A powerful tool for Android application penetration testing and ADB-based automa
 
 I regularly share cybersecurity knowledge, writeups, and practical insights:
 
-- 📝 Medium: https://medium.com/@bhanugoudm041  
+- 📝 Medium: https://medium.com/@bhanugoudm041
+- 📝 Active Directory - https://bhanugoudm041.notion.site/Active-directory-e33efff96b2b4ae68d8ede06f3256336
 
 ---
 
