@@ -4,7 +4,7 @@ layout: default
 
 # 👋 Hi, I'm Bhanuprakash Goud
 
-### 🛡️ Ethical Hacker | 🎯 Red Teamer | 🧰 Security Tools Developer
+### 🛡️ Ethical Hacker | 🎯 Red Teamer | 🧰 Security Tools Developer | EC-Council Instructor
   
 >  📺 YouTuber | 🐞 Bug Hunter | ⚡ Cybersecurity Enthusiast  
 
@@ -16,7 +16,7 @@ I’m **Bhanuprakash Goud**, a passionate cybersecurity professional specializin
 
 I focus on identifying vulnerabilities, building custom tools, and solving complex security challenges across multiple domains.
 
-- 🛡️ Ethical Hacker & Red Teamer  
+- 🛡️ Ethical Hacker & Red Teamer & EC-Council Instructor  
 - 🎯 Active CTF Player (**Top 1% on TryHackMe**)  
 - 🐞 Bug Hunter  
 - 📺 Cybersecurity Content Creator (YouTube)  
@@ -46,14 +46,20 @@ I focus on identifying vulnerabilities, building custom tools, and solving compl
 
 ### 🧰 Security Tools & Platforms
 
+#### 🔄 IAST
+- Seeker
+
 #### 🔍 SAST (Static Application Security Testing)
 - Checkmarx
 - SonarQube   
 - Sec1
 - Semgrep CE
 
-#### 🔍 SAST (Static Application Security Testing)
-- AppScan 
+#### 🔍 DAST (Dynamic Application Security Testing)
+- AppScan
+
+#### 🔍 WAF (Web Application Firewall)  
+- Imperva
 
 #### 📦 SCA (Software Composition Analysis)
 - Cycode
@@ -61,9 +67,6 @@ I focus on identifying vulnerabilities, building custom tools, and solving compl
 
 #### ☁️ CSPM
 - ScoutSuite CE 
-
-#### 🔄 IAST
-- Seeker  
 
 #### 📊 ASPM
 - DAZZ   
@@ -73,6 +76,9 @@ I focus on identifying vulnerabilities, building custom tools, and solving compl
 - Traceable API Security
 
 ---
+
+## ✍️ CVEs
+- **CVE-2026-33441** - https://github.com/lepture/mistune/security/advisories/GHSA-hjph-f4mc-wx4c
 
 ## 🛠️ Notable Projects
 
@@ -91,8 +97,10 @@ A powerful tool for Android application penetration testing and ADB-based automa
 
 ## 🏆 Certifications
 
-- 🎓 CRTA — Certified Red Team Analyst  
-- 🎓 PNPT — Practical Network Penetration Tester   
+- 🎓 CEI - Certified EC-Council Instructor
+- 🎓 PNPT — Practical Network Penetration Tester
+- 🎓 CRTA — Certified Red Team Analyst 
+- 🎓 CEH — Certified Ethical Hacker(Master/ANSI/Practical)     
 - 🎓 CC — Certified in Cybersecurity (ISC2)  
 - 🎓 eWPTX — Web Application Penetration Tester eXtreme  
 - 🎓 eMAPT — Mobile Application Penetration Tester  
